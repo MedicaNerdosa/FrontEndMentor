@@ -25,9 +25,11 @@ body {
 .container {
     background-color: var(--bg-color-100);
     max-width: 30ch;
-    margin: 25em auto;
+    margin-top:15vh;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 1em;
-    border-radius: 10px;
+    border-radius: 1em;
 }
 
 .container p {
@@ -37,5 +39,5 @@ body {
 
 .container img {
     max-width: 90%;
-    border-radius: 10px 10px;
+    border-radius: 1em;
 }
